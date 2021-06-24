@@ -14,20 +14,4 @@ persist.connect(function () {
   });
 });
 
-// function readFile(filePath, callback) {
-//   fs.readFile(filePath, "utf-8", (err, content) => {
-//     console.log("content in readFile", content);
-//     let counter = 0;
-//     callback(counter, content);
-//     counter++;
-//     callback(counter, content);
-//     counter++;
-//     callback(counter, content);
-//     counter++;
-//     callback(counter, content);
-//   });
-// }
-
-// readFile("myfile.txt", (counter, content) => {
-//   console.log(counter, " content in not readfile", content);
-// });
+// comment

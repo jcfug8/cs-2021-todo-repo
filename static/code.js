@@ -1,4 +1,4 @@
-var url = "http://localhost:8080";
+var url = "https://cs-2021-todo-jace.us-south.cf.appdomain.cloud";
 
 var app = new Vue({
   el: "#app",

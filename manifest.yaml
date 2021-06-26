@@ -1,0 +1,4 @@
+applications:
+- name: cs-2021-todo-jace
+  random-route: true
+  memory: 256M
